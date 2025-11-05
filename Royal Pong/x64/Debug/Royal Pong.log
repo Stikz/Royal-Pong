@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(18,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(404,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(405,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(413,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(414,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(438,12): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\pucho\source\repos\Royal Pong\Royal Pong\main.cpp(439,12): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  Royal Pong.vcxproj -> C:\Users\pucho\source\repos\Royal Pong\x64\Debug\Royal Pong.exe
